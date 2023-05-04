@@ -97,14 +97,14 @@
     "recipeName1": "Southern Fried Chicken",
     "cookingInfo1": "Southern Fried Chicken is a traditional Southern dish that has become a favorite all over the country. To make this delicious dish, start by marinating chicken pieces in a mixture of buttermilk, hot sauce, and spices overnight. In a separate bowl, combine flour, salt, pepper, and cayenne pepper. Dredge the chicken pieces in the flour mixture, making sure they are coated evenly. Heat oil in a cast-iron skillet over medium-high heat. Add the ",
     "recipeName2": "New England Clam Chowder",
-    "cookingInfo2": "New England Clam Chowder is a creamy and comforting soup that is perfect for a chilly day. Start by cooking chopped bacon in a large pot until crispy. Remove the bacon with a slotted spoon and set it aside. In the same pot, cook diced onions, celery, and garlic until softened. Add clam juice, diced potatoes, thyme, and bay leaves to the pot, and bring to a boil. Reduce the heat and simmer for 15-20 minutes, until the potatoes are tender."
+    "cookingInfo2": "New England Clam Chowder is a creamy and comforting soup that is perfect for a chilly day. Start by cooking chopped bacon in a large pot until crispy. Remove the bacon with a slotted spoon and set it aside. In the same pot, cook diced onions, celery, and garlic until softened. Add clam juice, diced potatoes, thyme, and bay leaves to the pot, and bring to a boil. Reduce the heat and simmer for 15-20 minutes."
   },
   {
     "id": 6,
     "name": "Wolfgang Puck",
     "description": "Celebrity chef and owner of multiple restaurants, known for his fusion cuisine and use of California ingredients.",
     "experienceYears": 45,
-    "ingredients": "1. pound of ground beef 2. onion, chopped 3. cloves of garlic, minced 4. tablespoon of tomato paste 5. can of diced tomatoes",
+    "ingredients": "1. pound of ground beef 2. onion, chopped 3. cloves of garlic,  4. tablespoon of tomato paste 5. can of diced tomatoes",
     "ratings": 4.4,
     "imageUrl1": "https://images.unsplash.com/photo-1625937282844-4a0cb4665820?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTkwfHxhbWVyaWNhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
     "imageUrl2": "https://images.unsplash.com/photo-1653565081510-de01a85e8e68?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjAyfHxhbWVyaWNhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
@@ -113,10 +113,10 @@
     "likes": 8000,
     "NumbersRecipes": 214,
     "recipeName": "Classic Cheeseburger",
-    "cookingInfo": "The classic cheeseburger is a quintessential American dish, loved by people of all ages. To make the perfect cheeseburger, start by selecting high-quality ground beef with a fat content of 80% or higher. Divide the beef into four equal portions and form them into patties. Season the patties with salt ",
+    "cookingInfo": "The classic cheeseburger is a quintessential American dish, loved by people of all ages. To make the perfect cheeseburger, start by selecting high-quality  beef with a fat content of 80% or higher. Divide the beef into four equal portions and form them into patties. Season the patties with salt ",
     "recipeName1": "Southern Fried Chicken",
     "cookingInfo1": "Southern Fried Chicken is a traditional Southern dish that has become a favorite all over the country. To make this delicious dish, start by marinating chicken pieces in a mixture of buttermilk, hot sauce, and spices overnight. In a separate bowl, combine flour, salt, pepper, and cayenne pepper. Dredge the chicken pieces in the flour mixture, making sure they are coated evenly. Heat oil in a cast-iron skillet over medium-high heat. Add the ",
     "recipeName2": "New England Clam Chowder",
-    "cookingInfo2": "New England Clam Chowder is a creamy and comforting soup that is perfect for a chilly day. Start by cooking chopped bacon in a large pot until crispy. Remove the bacon with a slotted spoon and set it aside. In the same pot, cook diced onions, celery, and garlic until softened. Add clam juice, diced potatoes, thyme, and bay leaves to the pot, and bring to a boil. Reduce the heat and simmer for 15-20 minutes, until the potatoes are tender."
+    "cookingInfo2": "New England Clam Chowder is a creamy and comforting soup that is perfect for a chilly day. Start by cooking chopped bacon in a large pot until . Remove the bacon with a slotted spoon and set it aside. In the same pot, cook diced onions, celery, and garlic until softened. Add clam juice, diced potatoes, thyme, and  leaves to the pot, and bring to a boil. Reduce the heat and simmer for 15-20 minutes, until the potatoes are tender."
   }
 ]
